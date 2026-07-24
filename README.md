@@ -12,7 +12,7 @@
 
 # IBM Qiskit Global Summer School 2026 (QGSS '26)
 
-[![Qiskit](https://img.shields.io/badge/Qiskit-1.x-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
+[![Qiskit](https://img.shields.io/badge/Qiskit-2.x-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
 [![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-052147?style=for-the-badge&logo=ibm&logoColor=white)](https://quantum-computing.ibm.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete_Archive-brightgreen?style=for-the-badge)]()
@@ -23,21 +23,27 @@ This repository contains the complete curriculum covering fundamental quantum me
 
 ---
 
-## 📅 Lecture Slides & Core Curriculum
+## 📅 Master Slide Deck & Curriculum Catalog
 
-The curriculum is structured into core lecture modules led by research scientists and quantum computing experts:
+The complete QGSS '26 curriculum includes core lecture modules, open-source workshops, and research methodology presentations:
 
-| # | Lecture Title | Speaker / Instructor | Slide Deck |
-|---|---|---|---|
-| **01** | **Why Quantum? What Problem Are We Solving?** | Roland de Putter | [📄 Slide Deck](./QGSS26_%20Why%20Quantum_%20What%20Problem%20Are%20We%20Solving_%20-%20Roland%20de%20Putter.pdf) |
-| **02** | **Quantum Mechanics for Computation** | QGSS 2026 Staff | [📄 Slide Deck](./QGSS%202026%20-%20Quantum%20Mechanics%20for%20Computation.pdf) |
-| **03** | **Entanglement & Quantum Effects** | Thaddeus Pellegrini | [📄 Slide Deck](./QGSS2026_%20Entanglement%20%26%20Quantum%20Effects%20-%20Thaddeus%20Pellegrini.pdf) |
-| **04** | **Quantum Algorithms I** | Will Kirby | [📄 Slide Deck](./QGSS_Quantum%20Algorithms%20I_Will%20Kirby.pdf) |
-| **05** | **Quantum Algorithms II** | Javier Robledo Moreno | [📄 Slide Deck](./QGSS26%20-%20Quantum%20Algorithms%20II%20-%20Javier%20Robledo%20Moreno.pdf) |
-| **06** | **Quantum Algorithms III** | Minh Tran | [📄 Slide Deck](./QGSS26%20-%20Quantum%20Algorithms%20III%20-%20Minh%20Tran.pdf) |
-| **07** | **Quantum Algorithms IV** | Sabina Dragoi | [📄 Slide Deck](./QGSS26%20-%20Quantum%20Algorithms%20IV%20-%20Sabina%20Dragoi.pdf) |
-| **08** | **Programming Quantum Computers** | Ibrahim Shehzad | [📄 Slide Deck](./QGSS26_%20Programming%20Quantum%20Computers%20-%20Ibrahim%20Shehzad.pdf) |
-| **09** | **Noise, Hardware, and Reality** | Haimeng Zhang | [📄 Slide Deck](./QGSS26_%20Noise%2C%20Hardware%2C%20and%20Reality%20-%20Haimeng%20Zhang.pdf) |
+| # | Topic / Slide Title | Speaker / Instructor | Slide Deck / Resource | Resource Type |
+|---|---|---|---|---|
+| **01** | **Why Quantum? What Problem Are We Solving?** | Roland de Putter | [📄 Slide Deck](./QGSS26_%20Why%20Quantum_%20What%20Problem%20Are%20We%20Solving_%20-%20Roland%20de%20Putter.pdf) | Core Lecture Slides |
+| **02** | **Quantum Mechanics for Computation** | QGSS 2026 Staff | [📄 Slide Deck](./QGSS%202026%20-%20Quantum%20Mechanics%20for%20Computation.pdf) | Core Lecture Slides |
+| **03** | **Entanglement & Quantum Effects** | Thaddeus Pellegrini | [📄 Slide Deck](./QGSS2026_%20Entanglement%20%26%20Quantum%20Effects%20-%20Thaddeus%20Pellegrini.pdf) | Core Lecture Slides |
+| **04** | **Quantum Algorithms I** | Will Kirby | [📄 Slide Deck](./QGSS_Quantum%20Algorithms%20I_Will%20Kirby.pdf) | Core Lecture Slides |
+| **05** | **Quantum Algorithms II** | Javier Robledo Moreno | [📄 Slide Deck](./QGSS26%20-%20Quantum%20Algorithms%20II%20-%20Javier%20Robledo%20Moreno.pdf) | Core Lecture Slides |
+| **06** | **Quantum Algorithms III** | Minh Tran | [📄 Slide Deck](./QGSS26%20-%20Quantum%20Algorithms%20III%20-%20Minh%20Tran.pdf) | Core Lecture Slides |
+| **07** | **Quantum Algorithms IV** | Sabina Dragoi | [📄 Slide Deck](./QGSS26%20-%20Quantum%20Algorithms%20IV%20-%20Sabina%20Dragoi.pdf) | Core Lecture Slides |
+| **08** | **Programming Quantum Computers** | Ibrahim Shehzad | [📄 Slide Deck](./QGSS26_%20Programming%20Quantum%20Computers%20-%20Ibrahim%20Shehzad.pdf) | Core Lecture Slides |
+| **09** | **Noise, Hardware, and Reality** | Haimeng Zhang | [📄 Slide Deck](./QGSS26_%20Noise%2C%20Hardware%2C%20and%20Reality%20-%20Haimeng%20Zhang.pdf) | Core Lecture Slides |
+| **10** | **GitHub Workshop Presentation** | QGSS 2026 Staff | [📄 Slide Deck](./qgss-github-workshop-pres.pdf) | Workshop Presentation |
+| **11** | **Quantum Paper Workshop Presentation** | QGSS 2026 Staff | [📄 Slide Deck](./qgss-paper-workshop-pres%20(1).pdf) | Workshop Presentation |
+| **12** | **How to Read a Quantum Paper** | QGSS 2026 Staff | [📑 Guide PDF](./How%20to%20Read%20a%20Quantum%20Paper.pdf) | Methodology Guide |
+| **13** | **Reading Strategy Cheat Sheet** | QGSS 2026 Staff | [⚡ Cheat Sheet](./reading-strategy-cheat-sheet%20(1).pdf) | Reference Sheet |
+| **14** | **Guided Practice Excerpt** | QGSS 2026 Staff | [📝 Practice PDF](./guided-practice-excerpt.pdf) | Practical Exercise |
+| **15** | **Featured Quantum Paper** | Research Authors | [📄 arXiv:2603.03496v1](./2603.03496v1.pdf) | Research Paper |
 
 ---
 
@@ -94,8 +100,8 @@ To execute quantum circuits corresponding to the lecture algorithms:
 python -m venv qiskit-env
 source qiskit-env/bin/activate  # On Windows: qiskit-env\Scripts\activate
 
-# Install Qiskit 1.x ecosystem
-pip install qiskit qiskit-ibm-runtime matplotlib
+# Install Qiskit 2.x ecosystem
+pip install "qiskit>=2.0" qiskit-ibm-runtime matplotlib
 ```
 
 ### 🔬 Basic Bell State Circuit Example
