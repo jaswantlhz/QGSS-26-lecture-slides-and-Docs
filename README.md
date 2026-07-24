@@ -1,41 +1,104 @@
-```text
+<div align="center">
 
-  ██████╗ ██╗███████╗██╗  ██╗██╗████████╗
- ██╔═══██╗██║██╔════╝██║ ██╔╝██║╚══██╔══╝
- ██║   ██║██║███████╗█████═╝ ██║   ██║   
- ██║▄▄ ██║██║╚════██║██╔═██╗ ██║   ██║   
- ╚██████╔╝██║███████║██║  ██╗██║   ██║   
-  ╚══▀▀═╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   
+<!-- Top Video Animation Header -->
+<a href="https://www.youtube.com/watch?v=DULa6KbiAxg">
+  <img src="https://img.youtube.com/vi/DULa6KbiAxg/hqdefault.jpg" alt="IBM Qiskit Global Summer School 2026 Animation" width="100%" style="border-radius: 12px;" />
+</a>
 
-   QISKIT GLOBAL SUMMER SCHOOL 2026 (QGSS '26)  
-```
+<br/>
+<br/>
 
-# IBM Qiskit Global Summer School 2026 (QGSS '26)
+<!-- Animated Typing SVG Header -->
+<a href="https://qiskit.org/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6929C4&center=true&vCenter=true&width=750&lines=IBM+Qiskit+Global+Summer+School+2026;Master+Quantum+Mechanics+%26+Algorithms;Explore+Hardware%2C+Noise+%26+Qiskit+2.x;Complete+Lecture+Slides+%26+Docs+Archive" alt="QGSS 2026 Animated Header" />
+</a>
 
-[![Qiskit](https://img.shields.io/badge/Qiskit-2.x-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
+<br/>
+<br/>
+
+[![Qiskit 2.x](https://img.shields.io/badge/Qiskit-2.x-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
 [![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-052147?style=for-the-badge&logo=ibm&logoColor=white)](https://quantum-computing.ibm.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete_Archive-brightgreen?style=for-the-badge)]()
-
-Welcome to the comprehensive archive of lecture slides, presentation slides, reading guides, and practical workshop materials from the **IBM Qiskit Global Summer School 2026 (QGSS '26)**.
-
-This repository is organized into distinct subdirectories covering fundamental quantum mechanics, quantum algorithm design, hardware reality and noise mitigation, practical Qiskit programming, and research paper reading strategies.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Curriculum: Complete](https://img.shields.io/badge/Curriculum-15_Resources-brightgreen?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Complete_Archive-purple?style=for-the-badge&logo=github)]()
 
 ---
 
-## Directory Structure & Master Catalog
+### Welcome to the QGSS '26 Master Archive!
+*Your ultimate portal into Quantum Computation, Circuit Synthesis, Quantum Algorithms, and Real Hardware Execution.*
 
-The repository is structured into the following folders:
+</div>
 
-```text
-.
-├── 01-foundations/
-├── 02-quantum-algorithms/
-├── 03-programming-and-hardware/
-└── 04-workshops-and-resources/
-```
+---
 
-### Complete Slide Deck & Resource Catalog
+## Interactive Folder Navigator
+
+Click on any folder below to expand its contents and access the slides directly:
+
+<details open>
+<summary><b>01-foundations/ — Quantum Basics & Entanglement</b></summary>
+
+<br/>
+
+| Lecture Title | Speaker / Instructor | Slide Link |
+|---|---|---|
+| **Why Quantum? What Problem Are We Solving?** | Roland de Putter | [Slide Deck](./01-foundations/QGSS26_%20Why%20Quantum_%20What%20Problem%20Are%20We%20Solving_%20-%20Roland%20de%20Putter.pdf) |
+| **Quantum Mechanics for Computation** | QGSS 2026 Staff | [Slide Deck](./01-foundations/QGSS%202026%20-%20Quantum%20Mechanics%20for%20Computation.pdf) |
+| **Entanglement & Quantum Effects** | Thaddeus Pellegrini | [Slide Deck](./01-foundations/QGSS2026_%20Entanglement%20%26%20Quantum%20Effects%20-%20Thaddeus%20Pellegrini.pdf) |
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>02-quantum-algorithms/ — Quantum Algorithms I - IV</b></summary>
+
+<br/>
+
+| Algorithm Module | Speaker / Instructor | Slide Link |
+|---|---|---|
+| **Quantum Algorithms I** | Will Kirby | [Slide Deck](./02-quantum-algorithms/QGSS26%20-%20Quantum%20Algorithms%20I%20-Will%20Kirby.pdf) |
+| **Quantum Algorithms II** | Javier Robledo Moreno | [Slide Deck](./02-quantum-algorithms/QGSS26%20-%20Quantum%20Algorithms%20II%20-%20Javier%20Robledo%20Moreno.pdf) |
+| **Quantum Algorithms III** | Minh Tran | [Slide Deck](./02-quantum-algorithms/QGSS26%20-%20Quantum%20Algorithms%20III%20-%20Minh%20Tran.pdf) |
+| **Quantum Algorithms IV** | Sabina Dragoi | [Slide Deck](./02-quantum-algorithms/QGSS26%20-%20Quantum%20Algorithms%20IV%20-%20Sabina%20Dragoi.pdf) |
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>03-programming-and-hardware/ — Qiskit & Hardware Reality</b></summary>
+
+<br/>
+
+| Module Title | Speaker / Instructor | Slide Link |
+|---|---|---|
+| **Programming Quantum Computers** | Ibrahim Shehzad | [Slide Deck](./03-programming-and-hardware/QGSS26_%20Programming%20Quantum%20Computers%20-%20Ibrahim%20Shehzad.pdf) |
+| **Noise, Hardware, and Reality** | Haimeng Zhang | [Slide Deck](./03-programming-and-hardware/QGSS26_%20Noise%2C%20Hardware%2C%20and%20Reality%20-%20Haimeng%20Zhang.pdf) |
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>04-workshops-and-resources/ — Workshops & Papers</b></summary>
+
+<br/>
+
+| Resource Title | Resource Type | Link |
+|---|---|---|
+| **GitHub Workshop Presentation** | Workshop Presentation | [Slide Deck](./04-workshops-and-resources/qgss-github-workshop-pres.pdf) |
+| **Quantum Paper Workshop Presentation** | Workshop Presentation | [Slide Deck](./04-workshops-and-resources/qgss-paper-workshop-pres%20(1).pdf) |
+| **How to Read a Quantum Paper** | Methodology Guide | [Guide PDF](./04-workshops-and-resources/How%20to%20Read%20a%20Quantum%20Paper.pdf) |
+| **Reading Strategy Cheat Sheet** | Reference Sheet | [Cheat Sheet](./04-workshops-and-resources/reading-strategy-cheat-sheet%20(1).pdf) |
+| **Guided Practice Excerpt** | Practical Exercise | [Practice PDF](./04-workshops-and-resources/guided-practice-excerpt.pdf) |
+| **Featured Quantum Paper** | Research Paper | [arXiv:2603.03496v1](./04-workshops-and-resources/2603.03496v1.pdf) |
+
+</details>
+
+---
+
+## Complete Slide Deck & Resource Catalog
 
 | # | Topic / Slide Title | Speaker / Instructor | Folder Location / Resource | Resource Type |
 |---|---|---|---|---|
@@ -54,22 +117,6 @@ The repository is structured into the following folders:
 | **13** | **Reading Strategy Cheat Sheet** | QGSS 2026 Staff | [Cheat Sheet](./04-workshops-and-resources/reading-strategy-cheat-sheet%20(1).pdf) | Reference Sheet |
 | **14** | **Guided Practice Excerpt** | QGSS 2026 Staff | [Practice PDF](./04-workshops-and-resources/guided-practice-excerpt.pdf) | Practical Exercise |
 | **15** | **Featured Quantum Paper** | Research Authors | [arXiv:2603.03496v1](./04-workshops-and-resources/2603.03496v1.pdf) | Research Paper |
-
----
-
-## Workshops, Reading Strategies & Hands-On Exercises
-
-In addition to core lectures, QGSS '26 included dedicated workshops for research methodology, GitHub collaboration, and guided practice located in `04-workshops-and-resources/`:
-
-### Quantum Paper Reading Workshop
-- **How to Read a Quantum Paper Guide**: [How to Read a Quantum Paper.pdf](./04-workshops-and-resources/How%20to%20Read%20a%20Quantum%20Paper.pdf)
-- **Reading Strategy Cheat Sheet**: [reading-strategy-cheat-sheet (1).pdf](./04-workshops-and-resources/reading-strategy-cheat-sheet%20(1).pdf)
-- **Paper Workshop Presentation**: [qgss-paper-workshop-pres (1).pdf](./04-workshops-and-resources/qgss-paper-workshop-pres%20(1).pdf)
-- **Featured Research Paper**: [2603.03496v1.pdf](./04-workshops-and-resources/2603.03496v1.pdf)
-
-### Open Source & Hands-on Tools
-- **GitHub Workshop Presentation**: [qgss-github-workshop-pres.pdf](./04-workshops-and-resources/qgss-github-workshop-pres.pdf)
-- **Guided Practice Excerpt**: [guided-practice-excerpt.pdf](./04-workshops-and-resources/guided-practice-excerpt.pdf)
 
 ---
 
@@ -112,11 +159,6 @@ flowchart TD
     style F3 fill:#9F1853,color:#fff
     style F4 fill:#1192E8,color:#fff
 ```
-
-1. **Foundations (`01-foundations/`)**: Start with *Why Quantum?* followed by *Quantum Mechanics for Computation* and *Entanglement & Quantum Effects*.
-2. **Algorithmic Mastery (`02-quantum-algorithms/`)**: Proceed through *Quantum Algorithms I* to *IV* for a thorough deep dive into phase estimation, VQE, QAOA, and quantum error mitigation strategies.
-3. **Implementation & Real Hardware (`03-programming-and-hardware/`)**: Study *Programming Quantum Computers* and *Noise, Hardware, and Reality* to translate mathematical concepts into executable Qiskit code and understand physical qubit noise.
-4. **Research & Open Source (`04-workshops-and-resources/`)**: Leverage the *Paper Reading Strategy Cheat Sheet*, workshop slides, and sample research papers.
 
 ---
 
