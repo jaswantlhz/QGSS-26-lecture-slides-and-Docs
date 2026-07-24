@@ -17,9 +17,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete_Archive-brightgreen?style=for-the-badge)]()
 
-Welcome to the comprehensive archive of lecture slides, presentation slides, reading guides, and practical workshop materials from the **IBM Qiskit Global Summer School 2026 (QGSS '26)**.
+Welcome to the comprehensive archive of lecture slides, presentation slides, reading guides, practical workshop materials, and lab walkthroughs from the **IBM Qiskit Global Summer School 2026 (QGSS '26)**.
 
-This repository is organized into distinct subdirectories covering fundamental quantum mechanics, quantum algorithm design, hardware reality and noise mitigation, practical Qiskit programming, and research paper reading strategies.
+This repository is organized into distinct subdirectories covering fundamental quantum mechanics, quantum algorithm design, hardware reality and noise mitigation, practical Qiskit programming, research paper reading strategies, and C++/Python lab walkthroughs.
 
 ---
 
@@ -32,7 +32,8 @@ The repository is structured into the following folders:
 ├── 01-foundations/
 ├── 02-quantum-algorithms/
 ├── 03-programming-and-hardware/
-└── 04-workshops-and-resources/
+├── 04-workshops-and-resources/
+└── 05-cpp/
 ```
 
 ### Complete Slide Deck & Resource Catalog
@@ -48,18 +49,24 @@ The repository is structured into the following folders:
 | **07** | **Quantum Algorithms IV** | Sabina Dragoi | [Slide Deck](./02-quantum-algorithms/QGSS26%20-%20Quantum%20Algorithms%20IV%20-%20Sabina%20Dragoi.pdf) | Core Lecture Slides |
 | **08** | **Programming Quantum Computers** | Ibrahim Shehzad | [Slide Deck](./03-programming-and-hardware/QGSS26_%20Programming%20Quantum%20Computers%20-%20Ibrahim%20Shehzad.pdf) | Core Lecture Slides |
 | **09** | **Noise, Hardware, and Reality** | Haimeng Zhang | [Slide Deck](./03-programming-and-hardware/QGSS26_%20Noise%2C%20Hardware%2C%20and%20Reality%20-%20Haimeng%20Zhang.pdf) | Core Lecture Slides |
-| **10** | **GitHub Workshop Presentation** | QGSS 2026 Staff | [Slide Deck](./04-workshops-and-resources/qgss-github-workshop-pres.pdf) | Workshop Presentation |
-| **11** | **Quantum Paper Workshop Presentation** | QGSS 2026 Staff | [Slide Deck](./04-workshops-and-resources/qgss-paper-workshop-pres%20(1).pdf) | Workshop Presentation |
-| **12** | **How to Read a Quantum Paper** | QGSS 2026 Staff | [Guide PDF](./04-workshops-and-resources/How%20to%20Read%20a%20Quantum%20Paper.pdf) | Methodology Guide |
-| **13** | **Reading Strategy Cheat Sheet** | QGSS 2026 Staff | [Cheat Sheet](./04-workshops-and-resources/reading-strategy-cheat-sheet%20(1).pdf) | Reference Sheet |
-| **14** | **Guided Practice Excerpt** | QGSS 2026 Staff | [Practice PDF](./04-workshops-and-resources/guided-practice-excerpt.pdf) | Practical Exercise |
-| **15** | **Featured Quantum Paper** | Research Authors | [arXiv:2603.03496v1](./04-workshops-and-resources/2603.03496v1.pdf) | Research Paper |
+| **10** | **Lab 1 Python Walkthrough** | QGSS 2026 Staff | [Walkthrough PDF](./03-programming-and-hardware/L1%20--%20qgss26_lab_1_python_walkthrough.pdf) | Lab Walkthrough |
+| **11** | **Lab 1 C++ Walkthrough** | QGSS 2026 Staff | [Walkthrough PDF](./05-cpp/L1%20--%20qgss26_lab_1_cpp_walkthrough.pdf) | C++ Lab Walkthrough |
+| **12** | **GitHub Workshop Presentation** | QGSS 2026 Staff | [Slide Deck](./04-workshops-and-resources/qgss-github-workshop-pres.pdf) | Workshop Presentation |
+| **13** | **Quantum Paper Workshop Presentation** | QGSS 2026 Staff | [Slide Deck](./04-workshops-and-resources/qgss-paper-workshop-pres%20(1).pdf) | Workshop Presentation |
+| **14** | **How to Read a Quantum Paper** | QGSS 2026 Staff | [Guide PDF](./04-workshops-and-resources/How%20to%20Read%20a%20Quantum%20Paper.pdf) | Methodology Guide |
+| **15** | **Reading Strategy Cheat Sheet** | QGSS 2026 Staff | [Cheat Sheet](./04-workshops-and-resources/reading-strategy-cheat-sheet%20(1).pdf) | Reference Sheet |
+| **16** | **Guided Practice Excerpt** | QGSS 2026 Staff | [Practice PDF](./04-workshops-and-resources/guided-practice-excerpt.pdf) | Practical Exercise |
+| **17** | **Featured Quantum Paper** | Research Authors | [arXiv:2603.03496v1](./04-workshops-and-resources/2603.03496v1.pdf) | Research Paper |
 
 ---
 
 ## Workshops, Reading Strategies & Hands-On Exercises
 
-In addition to core lectures, QGSS '26 included dedicated workshops for research methodology, GitHub collaboration, and guided practice located in `04-workshops-and-resources/`:
+In addition to core lectures, QGSS '26 included dedicated workshops for research methodology, GitHub collaboration, and guided practice located in `04-workshops-and-resources/` and `05-cpp/`:
+
+### C++ & Python Lab Walkthroughs
+- **Lab 1 C++ Walkthrough**: [L1 -- qgss26_lab_1_cpp_walkthrough.pdf](./05-cpp/L1%20--%20qgss26_lab_1_cpp_walkthrough.pdf)
+- **Lab 1 Python Walkthrough**: [L1 -- qgss26_lab_1_python_walkthrough.pdf](./03-programming-and-hardware/L1%20--%20qgss26_lab_1_python_walkthrough.pdf)
 
 ### Quantum Paper Reading Workshop
 - **How to Read a Quantum Paper Guide**: [How to Read a Quantum Paper.pdf](./04-workshops-and-resources/How%20to%20Read%20a%20Quantum%20Paper.pdf)
@@ -95,6 +102,7 @@ flowchart TD
     subgraph F3["03-programming-and-hardware"]
         C1["Programming Quantum Computers"]
         C2["Noise, Hardware, and Reality"]
+        C3["Lab 1 Python Walkthrough"]
     end
 
     subgraph F4["04-workshops-and-resources"]
@@ -103,20 +111,27 @@ flowchart TD
         D3["Featured Research Paper"]
     end
 
+    subgraph F5["05-cpp"]
+        E1["Lab 1 C++ Walkthrough"]
+    end
+
     F1 --> F2
     F2 --> F3
     F3 --> F4
+    F3 --> F5
 
     style F1 fill:#6929C4,color:#fff
     style F2 fill:#005D5D,color:#fff
     style F3 fill:#9F1853,color:#fff
     style F4 fill:#1192E8,color:#fff
+    style F5 fill:#D02670,color:#fff
 ```
 
 1. **Foundations (`01-foundations/`)**: Start with *Why Quantum?* followed by *Quantum Mechanics for Computation* and *Entanglement & Quantum Effects*.
 2. **Algorithmic Mastery (`02-quantum-algorithms/`)**: Proceed through *Quantum Algorithms I* to *IV* for a thorough deep dive into phase estimation, VQE, QAOA, and quantum error mitigation strategies.
-3. **Implementation & Real Hardware (`03-programming-and-hardware/`)**: Study *Programming Quantum Computers* and *Noise, Hardware, and Reality* to translate mathematical concepts into executable Qiskit code and understand physical qubit noise.
-4. **Research & Open Source (`04-workshops-and-resources/`)**: Leverage the *Paper Reading Strategy Cheat Sheet*, workshop slides, and sample research papers.
+3. **Implementation & Real Hardware (`03-programming-and-hardware/`)**: Study *Programming Quantum Computers*, *Noise, Hardware, and Reality*, and run the *Lab 1 Python Walkthrough*.
+4. **C++ Quantum Programming (`05-cpp/`)**: Explore low-level quantum simulation algorithms and mechanics in the *Lab 1 C++ Walkthrough*.
+5. **Research & Open Source (`04-workshops-and-resources/`)**: Leverage the *Paper Reading Strategy Cheat Sheet*, workshop slides, and sample research papers.
 
 ---
 
