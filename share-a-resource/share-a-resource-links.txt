@@ -75,3 +75,5 @@ https://qiskit-community.github.io/qiskit-machine-learning/tutorials/index.html 
 https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning - IBM QML module
 
 https://link.springer.com/book/10.1007/978-3-030-83098-4 - springer machine learning with quantum computers
+
+https://www.oezratty.net/wordpress/understanding-quantum-technologies/ - understaning quatnum technologies

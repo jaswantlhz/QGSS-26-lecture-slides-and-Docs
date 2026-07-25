@@ -117,6 +117,7 @@ Below is the structured index of community-shared links from [`share-a-resource-
 | **37** | **Qiskit Machine Learning Tutorials** | [qiskit-community.github.io/qiskit-machine-learning](https://qiskit-community.github.io/qiskit-machine-learning/tutorials/index.html) | Qiskit QML Tutorials |
 | **38** | **IBM Quantum Machine Learning Module** | [quantum.cloud.ibm.com/.../quantum-machine-learning](https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning) | IBM QML Module |
 | **39** | **Machine Learning with Quantum Computers (Springer)** | [link.springer.com/book/10.1007/978-3-030-83098-4](https://link.springer.com/book/10.1007/978-3-030-83098-4) | Springer Textbook |
+| **40** | **Understanding Quantum Technologies (Olivier Ezratty)** | [oezratty.net/.../understanding-quantum-technologies](https://www.oezratty.net/wordpress/understanding-quantum-technologies/) | Comprehensive Tech Guide & Book |
 
 ---
 
