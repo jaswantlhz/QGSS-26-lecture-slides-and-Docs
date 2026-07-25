@@ -96,7 +96,7 @@ In addition to core lectures, QGSS '26 included code notebooks, dedicated worksh
 The diagram below maps out the learning curriculum progression mapped directly to the repository folders:
 
 ```mermaid
-flowchart TD
+flowchart LR
     subgraph F1["01-foundations"]
         A1["Why Quantum? What Problem Are We Solving?"]
         A2["Quantum Mechanics for Computation (Kevin Sung)"]
