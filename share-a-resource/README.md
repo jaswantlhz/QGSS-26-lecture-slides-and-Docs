@@ -69,6 +69,7 @@ Welcome to the **Share-a-Resource Collection** archive. This directory houses a 
 | **39** | **Scott Aaronson Collection of Quantum Computing Lecture Notes** | Scott Aaronson (UT Austin/MIT) | [PDF Document](./scott-aaronson-collection-of-lecturenotes.pdf) | Aaronson Lecture Notes |
 | **40** | **Surface Codes: Towards Practical Large-Scale Quantum Computation** | Austin G. Fowler et al. (arXiv:1208.0928v2) | [PDF Document](./surface-code-1208.0928v2.pdf) | Surface Codes Landmark |
 | **41** | **Tensor Network Theory Overview** | arXiv:1610.02244v1 | [PDF Document](./tensor-network-theory-1610.02244v1.pdf) | Tensor Network Theory |
+| **42** | **Introduction to Quantum Information Science** | Textbook Monograph | [PDF Document](./Introduction%20to%20Quantum%20Information%20Science.pdf) | Quantum Information Science |
 
 ---
 
@@ -118,6 +119,7 @@ Below is the structured index of community-shared links from [`share-a-resource-
 | **38** | **IBM Quantum Machine Learning Module** | [quantum.cloud.ibm.com/.../quantum-machine-learning](https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning) | IBM QML Module |
 | **39** | **Machine Learning with Quantum Computers (Springer)** | [link.springer.com/book/10.1007/978-3-030-83098-4](https://link.springer.com/book/10.1007/978-3-030-83098-4) | Springer Textbook |
 | **40** | **Understanding Quantum Technologies (Olivier Ezratty)** | [oezratty.net/.../understanding-quantum-technologies](https://www.oezratty.net/wordpress/understanding-quantum-technologies/) | Comprehensive Tech Guide & Book |
+| **41** | **Handbook of Error-Correcting Codes** | [arxiv.org/abs/2606.11484](https://arxiv.org/abs/2606.11484) | Error-Correcting Codes & QEC |
 
 ---
 

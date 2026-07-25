@@ -77,7 +77,7 @@ In addition to core lectures, QGSS '26 included code notebooks, dedicated worksh
 - **Lab 1 Python Walkthrough**: [L1 -- qgss26_lab_1_python_walkthrough.pdf](./03-programming-and-hardware/L1%20--%20qgss26_lab_1_python_walkthrough.pdf)
 
 ### 🌐 Community Share-a-Resource Catalog
-- **Share-a-Resource Collection**: Explore [`share-a-resource/README.md`](./share-a-resource/README.md) for 41 research papers & textbooks and 39 curated web course/tool links.
+- **Share-a-Resource Collection**: Explore [`share-a-resource/README.md`](./share-a-resource/README.md) for 42 research papers & textbooks and 41 curated web course/tool links.
 
 ### Quantum Paper Reading Workshop
 - **How to Read a Quantum Paper Guide**: [How to Read a Quantum Paper.pdf](./04-workshops-and-resources/How%20to%20Read%20a%20Quantum%20Paper.pdf)
