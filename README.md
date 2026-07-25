@@ -97,38 +97,53 @@ The diagram below maps out the learning curriculum progression mapped directly t
 
 ```mermaid
 flowchart LR
-    classDef foundation fill:#6929C4,stroke:#391B70,stroke-width:2px,color:#fff,font-weight:bold
-    classDef algorithm fill:#005D5D,stroke:#003636,stroke-width:2px,color:#fff,font-weight:bold
-    classDef hardware fill:#9F1853,stroke:#600A30,stroke-width:2px,color:#fff,font-weight:bold
-    classDef workshops fill:#1192E8,stroke:#00539A,stroke-width:2px,color:#fff,font-weight:bold
-    classDef cpp fill:#D02670,stroke:#8A1046,stroke-width:2px,color:#fff,font-weight:bold
-    classDef resources fill:#002D9C,stroke:#001758,stroke-width:2px,color:#fff,font-weight:bold
-
-    subgraph Step1["Step 1: Foundations"]
-        F1["📁 01-foundations<br/>• Why Quantum?<br/>• QM for Computation (Kevin Sung)<br/>• Entanglement & Quantum Effects"]:::foundation
+    subgraph F1["01-foundations"]
+        A1["Why Quantum? What Problem Are We Solving?"]
+        A2["Quantum Mechanics for Computation (Kevin Sung)"]
+        A3["Lecture 2 Code Notebook (Kevin Sung)"]
+        A4["Entanglement & Quantum Effects"]
     end
 
-    subgraph Step2["Step 2: Algorithms"]
-        F2["📁 02-quantum-algorithms<br/>• Quantum Algorithms I (Will Kirby)<br/>• Quantum Algorithms II (Javier Moreno)<br/>• Quantum Algorithms III (Minh Tran)<br/>• Quantum Algorithms IV (Sabina Dragoi)"]:::algorithm
+    subgraph F2["02-quantum-algorithms"]
+        B1["Quantum Algorithms I"]
+        B2["Quantum Algorithms II"]
+        B3["Quantum Algorithms III"]
+        B4["Quantum Algorithms IV"]
     end
 
-    subgraph Step3["Step 3: Hardware & Practice"]
-        F3["📁 03-programming-and-hardware<br/>• Programming Quantum Computers<br/>• Hardware, Noise & Reality<br/>• Lab 1 Python Walkthrough"]:::hardware
+    subgraph F3["03-programming-and-hardware"]
+        C1["Programming Quantum Computers"]
+        C2["Noise, Hardware, and Reality"]
+        C3["Lab 1 Python Walkthrough"]
     end
 
-    subgraph Step4["Step 4: Specializations"]
-        F4["📁 04-workshops-and-resources<br/>• GitHub & Paper Workshops<br/>• Reading Strategies & Guides"]:::workshops
-        F5["📁 05-cpp<br/>• Lab 1 C++ Walkthrough"]:::cpp
+    subgraph F4["04-workshops-and-resources"]
+        D1["GitHub Workshop Presentation"]
+        D2["Quantum Paper Workshop & Reading Strategy"]
+        D3["Featured Research Paper"]
     end
 
-    subgraph Step5["Step 5: Resource Archive"]
-        F6["📁 share-a-resource<br/>• 41 Shared Research Papers<br/>• 39 External Web Links & Tools"]:::resources
+    subgraph F5["05-cpp"]
+        E1["Lab 1 C++ Walkthrough"]
     end
 
-    Step1 ==> Step2
-    Step2 ==> Step3
-    Step3 ==> Step4
-    Step4 ==> Step5
+    subgraph F6["share-a-resource"]
+        G1["41 Shared Research Papers & Textbooks"]
+        G2["39 External Learning & Web Links"]
+    end
+
+    F1 --> F2
+    F2 --> F3
+    F3 --> F4
+    F3 --> F5
+    F4 --> F6
+
+    style F1 fill:#6929C4,color:#fff
+    style F2 fill:#005D5D,color:#fff
+    style F3 fill:#9F1853,color:#fff
+    style F4 fill:#1192E8,color:#fff
+    style F5 fill:#D02670,color:#fff
+    style F6 fill:#002D9C,color:#fff
 ```
 
 1. **Foundations (`01-foundations/`)**: Start with *Why Quantum?* followed by *Quantum Mechanics for Computation* and *Lecture 2 Code Notebook* by Kevin Sung, and *Entanglement & Quantum Effects*.
