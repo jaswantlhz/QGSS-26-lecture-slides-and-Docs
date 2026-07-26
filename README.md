@@ -16,6 +16,7 @@
 
 # IBM Qiskit Global Summer School 2026 (QGSS '26)
 
+
 [![Qiskit](https://img.shields.io/badge/Qiskit-2.x-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
 [![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-052147?style=for-the-badge&logo=ibm&logoColor=white)](https://quantum-computing.ibm.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
