@@ -209,19 +209,12 @@ c: 2/═══════════╩══╩═
                 0  1
 ```
 
-## Honorable Mention
-
-Special recognition and honorable mention to the **[Quantum Research Archive](https://quantum-research-archive.vercel.app/)** for providing an outstanding platform of open-access quantum computing research, paper archives, tools, and educational resources!
-
-> **Quantum Research Archive**: [quantum-research-archive.vercel.app](https://quantum-research-archive.vercel.app/)
-
 ---
 
 ## Acknowledgments & Credits
 
 - **Organizers**: [IBM Quantum](https://quantum-computing.ibm.com/) & [Qiskit Community](https://qiskit.org/)
 - **Lecturers**: Kevin Sung, Roland de Putter, Thaddeus Pellegrini, Will Kirby, Javier Robledo Moreno, Minh Tran, Sabina Dragoi, Ibrahim Shehzad, Haimeng Zhang.
-- **Honorable Mention**: [Quantum Research Archive](https://quantum-research-archive.vercel.app/)
 - **Repository Maintainer**: QGSS '26 Participant Archive.
 
 ---
