@@ -1,0 +1,172 @@
+https://a.co/d/0fVxu4fW - QML Unlocked
+
+https://vergil.chemistry.gatech.edu/resources - Notes on Quantum Chemistry from Sherrill Research Group 
+
+https://quantum.cloud.ibm.com/learning/en/courses/quantum-chem-with-vqe - Quantum Chemistry with VQE
+
+https://quantum-research-archive.vercel.app/resources - archive
+
+https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources - learning resource
+
+https://quantumsecuritydefence.com/ <- these guys are also doing a bootcamp right now
+
+https://qcve.org/ <- my friend, CEO of pqcee, created a CVE for quantum risks
+
+https://nqsn.sg/ <- national quantum safe network, partnership between NUS Centre for Quantum Technologies, Singtel (national telcom) and more. lots of great research and interesting things to be learned about overall infrastructure implementation here, plus it serves as a testbed for approved research groups too
+
+https://m.youtube.com/watch?v=CdMTn0lucEQ&ra=m - Quantum Mechanics Visualized: 1D Time-Dependent Schrödinger Equation 
+
+https://linear.axler.net/ - Linear Algebra Done Right by Sheldon Axler 4th Edition 
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek - a youtube playlist A Vision of Linear Algebra by Gilbert Strang at MIT
+
+https://bramdo.github.io/pro-student-quantum-advantage-list/ - pro-student-quantum-advantage-list
+
+https://github.com/Akshat-ui-git07/pqc-python-benchmarks - Post quantum Cryptography python-benchmark
+
+https://github.com/decodeaditya/cirqmon - browser native quantum circuit simulator
+
+https://github.com/ray-mudgil/Quantum-algorithms - quantum Algorithms
+
+https://kiedos.art/quantum-games-list/ - quantum games
+
+https://www.einspire.net/resources/quantum-science - quantum related resources
+
+https://www.packtpub.com/en-us/product/learn-quantum-computing-with-python-and-ibm-quantum-9781803240923 - Learn Quantum Computing with Python and IBM Quantum: Write your own practical quantum programs with Python , Second Edition
+
+https://www.barnesandnoble.com/w/hardware-for-quantum-computing-chuck-easttom/1145833229 - hardware-for-quantum-computing-chuck-easttom
+
+https://mitpress.mit.edu/9780262539531/quantum-computing-for-everyone/ - Quantum Computing for Everyone by Chris Bernhardt 
+
+https://qudev.notion.site/ee290 - UC BERKELEY EE290 superconducting qubits
+
+https://qplanck.com/horizon - My weekly Quantum Computing Newsletter called The Planck Horizon
+
+https://www.edx.org/learn/engineering/university-of-british-columbia-silicon-photonics-design-fabrication-and-data-ana - university-of-british-columbia-silicon-photonics-design-fabrication-and-data-ana 
+
+https://www.ibm.com/quantum/blog/hardware-metrics-2026 - how to measure the performance of a quantum computer 
+
+https://www.packtpub.com/en-us/product/dancing-with-qubits-9781837636754 - Dancing with qubits
+
+https://quantumghent.github.io/TensorTutorials/2-TensorNetworks/TensorNetworks.html - tensornetwork theory
+https://www.grc.nasa.gov/WWW/K-12/Numbers/Math/documents/Tensors_TM2002211716.pdf - tensor network theory
+
+https://www.azoquantum.com/Article.aspx?ArticleID=420 - Quantum Tensor Networks: Foundations, Algorithms, and Applications 
+
+https://www.quera.com/blog-posts/quantum-algorithms-versus-quantum-inspired-algorithms - Quantum Algorithms vs. Quantum-Inspired Algorithms
+
+https://github.com/dmeliksetian/slurm-qiskit-cluster - slurm-qiskit-cluster — run Quantum+HPC workflows locally(HON)
+
+https://quantum.cloud.ibm.com/learning/en/courses/integrating-quantum-and-high-performance-computing - Integrating quantum and high-performance computing 
+
+https://github.com/merzlab - quantum chemistry
+
+https://quantum.cloud.ibm.com/learning/en/courses/foundations-of-quantum-error-correction - Foundations of quantum error correction 
+
+https://qir.mit.edu/benchmarking/ - quantum processor benchmarking
+
+https://www.packtpub.com/en-us/product/a-practical-guide-to-quantum-machine-learning-and-quantum-optimization-9781804613832 
+https://github.com/PacktPublishing/A-Practical-Guide-to-Quantum-Machine-Learning-and-Quantum-Optimization 
+
+https://journals.aps.org/prresearch/abstract/10.1103/hxv2-sbr7 - Universal resources for quantum approximate optimization algorithm and quantum annealing 
+
+https://qiskit-community.github.io/qiskit-machine-learning/tutorials/index.html - qiskit ML tutorials
+
+https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning - IBM QML module
+
+https://link.springer.com/book/10.1007/978-3-030-83098-4 - springer machine learning with quantum computers
+
+https://www.oezratty.net/wordpress/understanding-quantum-technologies/ - understaning quatnum technologies
+
+https://arxiv.org/abs/2606.11484 - Handbook of Error-Correcting Codes
+
+https://github.com/desireevl/awesome-quantum-computing - awesome-quantum-computing
+
+https://quantumcomputingreport.com/ - quantumcomputingreport
+
+https://quantumcomputing.stackexchange.com/ - quantumcomputing-stack-exchange
+
+https://quantiki.org/ - Portal for Quantum Information and Quantum Technologies
+
+https://www.youtube.com/watch?v=JhHMJCUmq28 - Quantum Computers Explained – Limits of Human Technology
+
+https://www.youtube.com/watch?v=kEry1TaN4-k - Five Quantum Computing Misconceptions
+
+https://www.youtube.com/watch?v=r_t96FqWE4M - The high-stakes race to make quantum computers work - Chiara Decaroli
+
+https://www.youtube.com/watch?v=OWJCfOvochA - Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty | WIRED
+
+https://www.youtube.com/watch?v=0GLgZvTCbaA& - Computing a Universe Simulation
+
+https://www.youtube.com/watch?v=pe1d0RyCNxY - Quantum Machine Learning and PennyLane by Maria Schuld | QWorld
+
+https://www.youtube.com/watch?v=ych-yB9QP_A - The Potential Impact of Quantum Computers on Society by Ronald de Wolf | QWorld
+
+https://www.youtube.com/watch?v=Gz5XZJ5QnlU - Quantum Computing: From Qubits to Quantum Accelerators - Koen Bertels
+
+https://www.youtube.com/watch?v=PJRatgm8sL0 - Q2B 2018 - Quantum Algorithms Landscape
+
+https://www.youtube.com/watch?v=P52iqU50NHg - WQCG Episode IX, Variational Quantum Machine Learning, 07.10.2019
+
+https://www.youtube.com/watch?v=0jrybODBUpA - Scott Aaronson on Computational Complexity Theory and Quantum Computers
+
+https://quantumapalooza.com/ - quantum events
+
+
+https://www.quantum-inspire.com/ - The multi hardware Quantum Technology platform
+
+https://algassert.com/quirk#circuit - Quirk is a drag-and-drop quantum circuit simulator that lets you build and simulate quantum circuits in your browser.
+
+https://quantum-circuit.com/ - Quantum Programming Studio
+
+http://www.quide.eu/ - a quantum computer simulation platform written in C#.
+
+https://sites.google.com/view/quantum-kit/ - Quantum-Kit is a graphical quantum circuit simulator
+
+https://phasespacecomputing.com/ - Educational tools for quantum information science
+
+https://quantumjavascript.app/ - Quantum JavaScript (Q.js)
+
+https://github.com/qosf/awesome-quantum-software - awesome quantum software
+
+https://github.com/brandonhimpfen/awesome-quantum-computing - awesome quantum computing
+
+https://github.com/krishnakumarsekar/awesome-quantum-machine-learning - awesome quantum machine learning
+
+https://github.com/artix41/awesome-quantum-ml - awesome quantum machine learning
+
+https://www.kdnuggets.com/5-github-repositories-to-learn-quantum-machine-learning - 5 github repositories to learn quantum machine learning
+
+https://www.scientificamerican.com/article/the-limits-of-quantum-computers/ - limits of quantum computers
+
+https://www.nature.com/articles/nphys3272 - read the fine print
+
+https://idnm.github.io/blog/posts/what_to_do_with_a_quantum_computer/what_to_do_with_a_quantum_computer.html - what will a quantum computer be good for, exactly?
+
+https://quantum-journal.org/ - Quantum 
+
+https://link.springer.com/journal/42484 - Springer Quantum Machine Intelligence
+
+https://onlinelibrary.wiley.com/journal/25119044 - Wiley Advanced Quantum Technologies  
+
+https://iopscience.iop.org/journal/2058-9565 - IOP Quantum Science and Technology  
+
+https://epjquantumtechnology.springeropen.com/ - Springer EPJ Quantum Technology  
+
+https://journals.aps.org/prxquantum/- Physical Review X Quantum
+
+https://tqe.ieee.org/ - IEEE Transactions on Quantum Engineering
+
+https://dl.acm.org/journal/tqc - ACM Transactions on Quantum Computing  
+
+https://link.springer.com/journal/11128 - Springer Quantum Information Processing  
+
+https://journals.aps.org/prapplied/ - Physical Review Applied  
+
+https://journals.aps.org/prresearch/ - Physical Review Research  
+
+https://www.nature.com/npjqi/ - NPJ Quantum Information  
+
+https://journals.aps.org/pra/ - Physical Review A  
+
+https://journals.aps.org/prl/ - Physical Review Letters  
