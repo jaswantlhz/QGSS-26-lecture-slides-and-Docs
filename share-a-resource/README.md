@@ -6,7 +6,7 @@
  ║             ██║   ██║██║  ███╗ ███████╗███████╗  ██║    ███████║ ███████╗              ║
  ║             ██║▄▄ ██║██║   ██║ ╚════██║╚════██║  ╚██╗   ██╔════╝ ██╔═══██╗             ║
  ║             ╚██████╔╝╚██████╔╝ ███████║███████║   ╚██╗  ███████╗ ╚██████╔╝             ║
- ║              ╚══▀▀═╝  ╚═════╝  ╚══════╝╚══════╝    ╚═╝  ╚══════╝  ╚═════╝              ║
+ ║              ╚══▀▀═╝  ╚═════╝  ╚══════╝╚══════╝    ╚═╝  ╚══════╝  ╚══════╝              ║
  ║                                                                                        ║
  ║              SHARE-A-RESOURCE COLLECTION & COMMUNITY CATALOG (QGSS '26)                ║
  ║                                                                                        ║
@@ -17,13 +17,13 @@
 
 [![Qiskit](https://img.shields.io/badge/Qiskit-2.x-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
 [![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-052147?style=for-the-badge&logo=ibm&logoColor=white)](https://quantum-computing.ibm.com/)
-[![Resources](https://img.shields.io/badge/Shared_Resources-136_Items-brightgreen?style=for-the-badge)]()
+[![Resources](https://img.shields.io/badge/Shared_Resources-146_Items-brightgreen?style=for-the-badge)]()
 
 Welcome to the **Share-a-Resource Collection** archive. This directory houses a curated repository of community-contributed research papers, lecture notes, textbooks, tutorials, open-source quantum tools, and external web resources covering **Quantum Machine Learning (QML)**, **Surface Codes & Quantum Error Correction (QEC)**, **Tensor Networks**, **Quantum Optimization**, **NISQ/PISQ Analysis**, and **Quantum Hardware/HPC Integration**.
 
 ---
 
-## Shared PDF Literature & Research Catalog (49 Documents)
+## Shared PDF Literature & Research Catalog (54 Documents)
 
 | # | Document / Paper Title | Author / Citation ID | PDF Link | Category |
 |---|---|---|---|---|
@@ -43,44 +43,48 @@ Welcome to the **Share-a-Resource Collection** archive. This directory houses a 
 | **14** | **Implicit Differentiation of Tensor Network Algorithms** | arXiv:2607.15030v1 | [PDF Document](./Implicit%20differentiation%20of%20tensor%20network%20algorithms%20-2607.15030v1.pdf) | Tensor Networks & QML |
 | **15** | **Introduction to Quantum Computing (Vol. 1)** | Fred Loceff | [PDF Document](./Intro_to_QC_Vol_1_Loceff.pdf) | Introductory Textbook |
 | **16** | **Introduction to Quantum Information Science** | Textbook Monograph | [PDF Document](./Introduction%20to%20Quantum%20Information%20Science.pdf) | Quantum Information Science |
-| **17** | **Lectures on Quantum Tensor Networks** | Jacob Biamonte et al. (arXiv:1912.10049v2) | [PDF Document](./Lectures%20on%20Quantum%20Tensor%20Networks-1912.10049v2.pdf) | Tensor Networks |
-| **18** | **Magic State Cultivation: Growing T States as Cheap as CNOT Gates** | arXiv:2409.17595v1 | [PDF Document](./Magic%20state%20cultivation-%20growing%20T%20states%20as%20cheap%20as%20CNOT%20gates-2409.17595v1.pdf) | Magic States & QEC |
-| **19** | **Mind the Gaps: The Fraught Road to Quantum Advantage** | arXiv:2510.19928v3 | [PDF Document](./Mind%20the%20gaps%20The%20fraught%20road%20to%20quantum%20advantage-2510.19928v3.pdf) | Quantum Advantage Assessment |
-| **20** | **Molecular Quantum Computations on a Protein** | arXiv:2512.17130v2 | [PDF Document](./Molecular%20Quantum%20Computations%20on%20a%20Protein%20%20-%202512.17130v2.pdf) | Quantum Chemistry |
-| **21** | **Optimal Lower Bounds for Hamiltonian Simulation** | arXiv:2607.19852v1 | [PDF Document](./Optimal%20Lower%20Bounds%20for%20Hamiltonian%20Simulation%20-%202607.19852v1.pdf) | Hamiltonian Simulation |
-| **22** | **QFGN: A Quantum Approach to High-Fidelity Implicit Neural Representations** | arXiv:2504.19053v1 | [PDF Document](./QFGN%20A%20Quantum%20Approach%20to%20High-Fidelity%20Implicit%20Neural%20Representations%20%20-%202504.19053v1.pdf) | QML & Neural Representations |
-| **23** | **Quantum Machine Learning Overview** | Jeongbin Jo | [PDF Document](./QML-jeongbin-jo.pdf) | Quantum Machine Learning |
-| **24** | **Quantum Algorithm Implementations for Beginners** | ACM (3517340) | [PDF Document](./Quantum%20Algorithm%20Implementations%20for%20Beginners%203517340.pdf) | Algorithm Implementations |
-| **25** | **Quantum Algorithms Overview** | arXiv:0808.0369v1 | [PDF Document](./Quantum%20Algorithms-0808.0369v1.pdf) | Quantum Algorithms |
-| **26** | **Quantum Computing Lecture Notes** | Ronald de Wolf (arXiv:1907.09415v5) | [PDF Document](./Quantum%20Computing%20Lecture%20Notes%20by%20Ronald%20de%20Wolf%20%20-%201907.09415v5.pdf) | Foundational Lecture Notes |
-| **27** | **Quantum Computing: From NISQ to PISQ** | IEEE 09537173 | [PDF Document](./Quantum%20Computing%E2%80%94From%20NISQ%20to%20PISQ-09537173.pdf) | NISQ & PISQ Eras |
-| **28** | **Quantum Error Correction for Beginners** | Simon J. Devitt et al. (arXiv:0905.2794v4) | [PDF Document](./Quantum%20Error%20Correction%20for%20Beginners-0905.2794v4.pdf) | Quantum Error Correction |
-| **29** | **Quantum Generative Modeling of Single-Cell Transcriptomes** | arXiv:2510.12776v4 | [PDF Document](./Quantum%20Generative%20Modeling%20of%20Single-Cell%20transcriptomes%20-%202510.12776v4.pdf) | Generative QML & Biology |
-| **30** | **Quantum Machine Learning: A Hands-on Tutorial for ML Practitioners** | arXiv:2502.01146v1 | [PDF Document](./Quantum%20Machine%20Learning%20A%20Hands-on%20Tutorial%20for%20Machine%20Learning%20Practitioners%20and%20Researchers%20%20%20-%202502.01146v1.pdf) | QML Hands-on Tutorial |
-| **31** | **Quantum Algorithm for Solving Linear Systems of Equations (HHL)** | Harrow, Hassidim, Lloyd (arXiv:0811.3171v3) | [PDF Document](./Quantum%20algorithm%20for%20solving%20linear%20systems%20of%20equations%20-%200811.3171v3.pdf) | HHL Algorithm |
-| **32** | **Quantum Algorithms for Optimizers** | arXiv:2408.07086v5 | [PDF Document](./Quantum%20algorithms%20for%20optimizers%20%20-%202408.07086v5.pdf) | Quantum Optimization |
-| **33** | **Quantum Algorithms: A Survey of Applications and End-to-End Complexities** | arXiv:2310.03011v2 | [PDF Document](./Quantum%20algorithms-A%20survey%20of%20applications%20and%20end-to-end%20complexities-2310.03011v2.pdf) | Applications Survey |
-| **34** | **Quantum Machine Learning Resources Guide** | QGSS Resource Compilation | [PDF Document](./Quantum%20machine%20learning%20resources.pdf) | QML Reference Guide |
-| **35** | **Quantum Error Correction: An Introductory Guide** | Joschka Roffe (arXiv:1907.11157) | [PDF Document](./Quantum-error-correction-An-introductory-Guide-1907.11157.pdf) | Quantum Error Correction |
-| **36** | **QuantumXCT: Cell-Cell Communication via Quantum Entanglement** | arXiv:2604.02203v2 | [PDF Document](./QuantumXCT%20-%20Learning%20Interaction-Induced%20State%20Transformation%20in%20Cell-Cell%20Communication%20via%20Quantum%20Entanglement%20and%20Generative%20Modeling%20-%202604.02203v2.pdf) | Quantum Biology & QML |
-| **37** | **Quantum Algorithms: A Survey of Applications** | Comprehensive Survey | [PDF Document](./Quantum_Algorithms-a-survey-of-applications.pdf) | Quantum Algorithms |
-| **38** | **Quantum Science Beyond the Hype: Facts, Myths, and Realities** | Industry Analysis | [PDF Document](./Quantum_Science_Beyond_the_Hype_Facts_Myths_and_Re.pdf) | Quantum Industry & Hype |
-| **39** | **Surface Code Quantum Computing by Lattice Surgery** | Clare Horsman et al. (arXiv:1111.4022v3) | [PDF Document](./Surface%20code%20quantum%20computing%20by%20lattice%20surgery-1111.4022v3.pdf) | Surface Codes & QEC |
-| **40** | **Tensor Networks in a Nutshell** | Román Orús (arXiv:1708.00006v1) | [PDF Document](./Tensor%20Networks%20in%20a%20Nutshell-1708.00006v1.pdf) | Tensor Networks |
-| **41** | **The Quantum House of Cards** | arXiv:2312.17570v1 | [PDF Document](./The%20Quantum%20House%20Of%20Cards-2312.17570v1.pdf) | Quantum Computing Analysis |
-| **42** | **The Bitter Truth About Gate-Based Quantum Computing** | Critical Analysis | [PDF Document](./The%20bitter%20truth%20about%20gate-based%20quantum.pdf) | Gate-Based Quantum Reality |
-| **43** | **Universal Quantum Technology 2025 Manual** | Conference Manual | [PDF Document](./UQT2025-A4.pdf) | Universal Quantum Tech |
-| **44** | **What You Shouldn't Know About Quantum Computers** | arXiv:2405.15838v1 | [PDF Document](./What%20You%20Shouldn%27t%20Know%20About%20Quantum%20Computers%20-2405.15838v1.pdf) | Quantum Complexity |
-| **45** | **When AI Meets Quantum Information: A Comprehensive Review** | arXiv:2607.00365v1 | [PDF Document](./When%20AI%20meets%20quantum%20information%20A%20comprehensive%20review%20%20-%202607.00365v1.pdf) | AI & Quantum Information |
-| **46** | **Where Are We Heading with NISQ?** | arXiv:2305.09518v3 | [PDF Document](./Where%20are%20we%20heading%20with%20NISQ-2305.09518v3.pdf) | NISQ Era Applications |
-| **47** | **QML Resources for Qiskit Summer School 2020** | Qiskit School Archive | [PDF Document](./qml%20resources%20for%20qiskit-school%202020.pdf) | QML Qiskit Archive |
-| **48** | **Scott Aaronson Collection of Quantum Computing Lecture Notes** | Scott Aaronson (UT Austin/MIT) | [PDF Document](./scott-aaronson-collection-of-lecturenotes.pdf) | Aaronson Lecture Notes |
-| **49** | **Surface Codes: Towards Practical Large-Scale Quantum Computation** | Austin G. Fowler et al. (arXiv:1208.0928v2) | [PDF Document](./surface-code-1208.0928v2.pdf) | Surface Codes Landmark |
-| **50** | **Tensor Network Theory Overview** | arXiv:1610.02244v1 | [PDF Document](./tensor-network-theory-1610.02244v1.pdf) | Tensor Network Theory |
+| **17** | **Lecture Notes on Quantum Algorithms** | arXiv:2507.11565v1 | [PDF Document](./Lecture%20Notes%20on%20Quantum%20Algorithms-2507.11565v1.pdf) | Quantum Algorithms |
+| **18** | **Lectures on Quantum Tensor Networks** | Jacob Biamonte et al. (arXiv:1912.10049v2) | [PDF Document](./Lectures%20on%20Quantum%20Tensor%20Networks-1912.10049v2.pdf) | Tensor Networks |
+| **19** | **Magic State Cultivation: Growing T States as Cheap as CNOT Gates** | arXiv:2409.17595v1 | [PDF Document](./Magic%20state%20cultivation-%20growing%20T%20states%20as%20cheap%20as%20CNOT%20gates-2409.17595v1.pdf) | Magic States & QEC |
+| **20** | **Mind the Gaps: The Fraught Road to Quantum Advantage** | arXiv:2510.19928v3 | [PDF Document](./Mind%20the%20gaps%20The%20fraught%20road%20to%20quantum%20advantage-2510.19928v3.pdf) | Quantum Advantage Assessment |
+| **21** | **Molecular Quantum Computations on a Protein** | arXiv:2512.17130v2 | [PDF Document](./Molecular%20Quantum%20Computations%20on%20a%20Protein%20%20-%202512.17130v2.pdf) | Quantum Chemistry |
+| **22** | **Noise Tailoring for Error Mitigation & Diagnosing Digital Quantum Computers** | arXiv:2601.04830v2 | [PDF Document](./Noise%20tailoring%20for%20error%20mitigation%20and%20for%20diagnozing%20digital%20quantum%20computers-2601.04830v2.pdf) | Noise & Error Mitigation |
+| **23** | **Optimal Lower Bounds for Hamiltonian Simulation** | arXiv:2607.19852v1 | [PDF Document](./Optimal%20Lower%20Bounds%20for%20Hamiltonian%20Simulation%20-%202607.19852v1.pdf) | Hamiltonian Simulation |
+| **24** | **QFGN: A Quantum Approach to High-Fidelity Implicit Neural Representations** | arXiv:2504.19053v1 | [PDF Document](./QFGN%20A%20Quantum%20Approach%20to%20High-Fidelity%20Implicit%20Neural%20Representations%20%20-%202504.19053v1.pdf) | QML & Neural Representations |
+| **25** | **Quantum Machine Learning Overview** | Jeongbin Jo | [PDF Document](./QML-jeongbin-jo.pdf) | Quantum Machine Learning |
+| **26** | **Quantum Algorithm Implementations for Beginners** | ACM (3517340) | [PDF Document](./Quantum%20Algorithm%20Implementations%20for%20Beginners%203517340.pdf) | Algorithm Implementations |
+| **27** | **Quantum Algorithms for Scientific Computation** | Monograph | [PDF Document](./Quantum%20Algorithms%20for%20Scientific%20Computation.pdf) | Scientific Computation |
+| **28** | **Quantum Algorithms Overview** | arXiv:0808.0369v1 | [PDF Document](./Quantum%20Algorithms-0808.0369v1.pdf) | Quantum Algorithms |
+| **29** | **Quantum Computing Lecture Notes** | Ronald de Wolf (arXiv:1907.09415v5) | [PDF Document](./Quantum%20Computing%20Lecture%20Notes%20by%20Ronald%20de%20Wolf%20%20-%201907.09415v5.pdf) | Foundational Lecture Notes |
+| **30** | **Quantum Computing: From NISQ to PISQ** | IEEE 09537173 | [PDF Document](./Quantum%20Computing%E2%80%94From%20NISQ%20to%20PISQ-09537173.pdf) | NISQ & PISQ Eras |
+| **31** | **Quantum Error Correction for Beginners** | Simon J. Devitt et al. (arXiv:0905.2794v4) | [PDF Document](./Quantum%20Error%20Correction%20for%20Beginners-0905.2794v4.pdf) | Quantum Error Correction |
+| **32** | **Quantum Generative Modeling of Single-Cell Transcriptomes** | arXiv:2510.12776v4 | [PDF Document](./Quantum%20Generative%20Modeling%20of%20Single-Cell%20transcriptomes%20-%202510.12776v4.pdf) | Generative QML & Biology |
+| **33** | **Quantum Koopman Algorithms** | arXiv:2605.19054v1 | [PDF Document](./Quantum%20Koopman%20Algorithms-2605.19054v1.pdf) | Dynamical Systems & QML |
+| **34** | **Quantum Machine Learning: A Hands-on Tutorial for ML Practitioners** | arXiv:2502.01146v1 | [PDF Document](./Quantum%20Machine%20Learning%20A%20Hands-on%20Tutorial%20for%20Machine%20Learning%20Practitioners%20and%20Researchers%20%20%20-%202502.01146v1.pdf) | QML Hands-on Tutorial |
+| **35** | **Quantum Viterbi Algorithm** | arXiv:2605.18912v1 | [PDF Document](./Quantum%20Viterbi%20Algorithm-2605.18912v1.pdf) | Quantum Algorithms |
+| **36** | **Quantum Algorithm for Solving Linear Systems of Equations (HHL)** | Harrow, Hassidim, Lloyd (arXiv:0811.3171v3) | [PDF Document](./Quantum%20algorithm%20for%20solving%20linear%20systems%20of%20equations%20-%200811.3171v3.pdf) | HHL Algorithm |
+| **37** | **Quantum Algorithms for Optimizers** | arXiv:2408.07086v5 | [PDF Document](./Quantum%20algorithms%20for%20optimizers%20%20-%202408.07086v5.pdf) | Quantum Optimization |
+| **38** | **Quantum Algorithms: A Survey of Applications and End-to-End Complexities** | arXiv:2310.03011v2 | [PDF Document](./Quantum%20algorithms-A%20survey%20of%20applications%20and%20end-to-end%20complexities-2310.03011v2.pdf) | Applications Survey |
+| **39** | **Quantum Machine Learning Resources Guide** | QGSS Resource Compilation | [PDF Document](./Quantum%20machine%20learning%20resources.pdf) | QML Reference Guide |
+| **40** | **Quantum Error Correction: An Introductory Guide** | Joschka Roffe (arXiv:1907.11157) | [PDF Document](./Quantum-error-correction-An-introductory-Guide-1907.11157.pdf) | Quantum Error Correction |
+| **41** | **QuantumXCT: Cell-Cell Communication via Quantum Entanglement** | arXiv:2604.02203v2 | [PDF Document](./QuantumXCT%20-%20Learning%20Interaction-Induced%20State%20Transformation%20in%20Cell-Cell%20Communication%20via%20Quantum%20Entanglement%20and%20Generative%20Modeling%20-%202604.02203v2.pdf) | Quantum Biology & QML |
+| **42** | **Quantum Algorithms: A Survey of Applications** | Comprehensive Survey | [PDF Document](./Quantum_Algorithms-a-survey-of-applications.pdf) | Quantum Algorithms |
+| **43** | **Quantum Science Beyond the Hype: Facts, Myths, and Realities** | Industry Analysis | [PDF Document](./Quantum_Science_Beyond_the_Hype_Facts_Myths_and_Re.pdf) | Quantum Industry & Hype |
+| **44** | **Surface Code Quantum Computing by Lattice Surgery** | Clare Horsman et al. (arXiv:1111.4022v3) | [PDF Document](./Surface%20code%20quantum%20computing%20by%20lattice%20surgery-1111.4022v3.pdf) | Surface Codes & QEC |
+| **45** | **Tensor Networks in a Nutshell** | Román Orús (arXiv:1708.00006v1) | [PDF Document](./Tensor%20Networks%20in%20a%20Nutshell-1708.00006v1.pdf) | Tensor Networks |
+| **46** | **The Quantum House of Cards** | arXiv:2312.17570v1 | [PDF Document](./The%20Quantum%20House%20Of%20Cards-2312.17570v1.pdf) | Quantum Computing Analysis |
+| **47** | **The Bitter Truth About Gate-Based Quantum Computing** | Critical Analysis | [PDF Document](./The%20bitter%20truth%20about%20gate-based%20quantum.pdf) | Gate-Based Quantum Reality |
+| **48** | **What You Shouldn't Know About Quantum Computers** | arXiv:2405.15838v1 | [PDF Document](./What%20You%20Shouldn%27t%20Know%20About%20Quantum%20Computers%20-2405.15838v1.pdf) | Quantum Complexity |
+| **49** | **When AI Meets Quantum Information: A Comprehensive Review** | arXiv:2607.00365v1 | [PDF Document](./When%20AI%20meets%20quantum%20information%20A%20comprehensive%20review%20%20-%202607.00365v1.pdf) | AI & Quantum Information |
+| **50** | **Where Are We Heading with NISQ?** | arXiv:2305.09518v3 | [PDF Document](./Where%20are%20we%20heading%20with%20NISQ-2305.09518v3.pdf) | NISQ Era Applications |
+| **51** | **QML Resources for Qiskit Summer School 2020** | Qiskit School Archive | [PDF Document](./qml%20resources%20for%20qiskit-school%202020.pdf) | QML Qiskit Archive |
+| **52** | **Scott Aaronson Collection of Quantum Computing Lecture Notes** | Scott Aaronson (UT Austin/MIT) | [PDF Document](./scott-aaronson-collection-of-lecturenotes.pdf) | Aaronson Lecture Notes |
+| **53** | **Surface Codes: Towards Practical Large-Scale Quantum Computation** | Austin G. Fowler et al. (arXiv:1208.0928v2) | [PDF Document](./surface-code-1208.0928v2.pdf) | Surface Codes Landmark |
+| **54** | **Tensor Network Theory Overview** | arXiv:1610.02244v1 | [PDF Document](./tensor-network-theory-1610.02244v1.pdf) | Tensor Network Theory |
 
 ---
 
-## External Web Resources, Courses & Links Catalog (87 Links)
+## External Web Resources, Courses & Links Catalog (92 Links)
 
 Below is the complete structured index of community-shared web links from [`share-a-resource-links.txt`](./share-a-resource-links.txt):
 
@@ -172,6 +176,12 @@ Below is the complete structured index of community-shared web links from [`shar
 | **84** | **NPJ Quantum Information (Nature)** | [nature.com/npjqi](https://www.nature.com/npjqi/) | Nature Partner Journal |
 | **85** | **Physical Review A (PRA)** | [journals.aps.org/pra](https://journals.aps.org/pra/) | APS Journal |
 | **86** | **Physical Review Letters (PRL)** | [journals.aps.org/prl](https://journals.aps.org/prl/) | APS Journal |
+| **87** | **QC Roadmaps** | [qcroadmap.com](https://qcroadmap.com/) | Quantum Computing Roadmaps |
+| **88** | **Quantum Computing for Very Curious** | [quantum.country/qcvc](https://quantum.country/qcvc) | Mnemonic Quantum Essay |
+| **89** | **Informaq** | [informaq.spinsphere.xyz](https://informaq.spinsphere.xyz/) | Quantum Physics Portal |
+| **90** | **Journal of High Energy Physics (JHEP)** | [link.springer.com/journal/13130](https://link.springer.com/journal/13130) | Springer Academic Journal |
+| **91** | **Graduate Texts in Physics (Springer)** | [link.springer.com/series/8431](https://link.springer.com/series/8431) | Academic Book Series |
+| **92** | **Tallinn Manual (CCDCOE Cyber & Tech Law Research)** | [ccdcoe.org/research/tallinn-manual](https://ccdcoe.org/research/tallinn-manual/) | Cyber & Tech Law Research |
 
 ---
 

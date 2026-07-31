@@ -170,3 +170,15 @@ https://www.nature.com/npjqi/ - NPJ Quantum Information
 https://journals.aps.org/pra/ - Physical Review A  
 
 https://journals.aps.org/prl/ - Physical Review Letters  
+
+https://qcroadmap.com/ - qc roadmaps
+
+https://quantum.country/qcvc - quantum computing for very curious
+
+https://informaq.spinsphere.xyz/ - Informaq 
+
+https://link.springer.com/journal/13130 - journal of high energy physics
+
+https://link.springer.com/series/8431 - graduate texts in physics
+
+https://ccdcoe.org/research/tallinn-manual/ - tallinn manual

@@ -21,12 +21,12 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Labs](https://img.shields.io/badge/Labs-0_to_4c-ff69b4?style=for-the-badge&logo=jupyter&logoColor=white)](./Labs/)
 [![Multilingual](https://img.shields.io/badge/Languages-EN%20%7C%20JA%20%7C%20KO-blueviolet?style=for-the-badge)]()
-[![Shared Resources](https://img.shields.io/badge/Shared_Resources-135+_Items-brightgreen?style=for-the-badge)](./share-a-resource/README.md)
+[![Shared Resources](https://img.shields.io/badge/Shared_Resources-146+_Items-brightgreen?style=for-the-badge)](./share-a-resource/README.md)
 [![Memes](https://img.shields.io/badge/Community_Memes-93_Files-orange?style=for-the-badge)](./QGSS26-memes/)
 
 Welcome to the official community archive for the **IBM Qiskit Global Summer School 2026 (QGSS '26)**.
 
-This repository serves as a complete repository of all hands-on laboratory notebooks (Labs 0 through 4c), dual-stack implementations in **Python (Qiskit 2.x)** and **C++**, multilingual translations (English, Japanese, and Korean), 49+ PDF research papers & textbooks, 100+ curated external web tools, and 93 community-contributed memes and media.
+This repository serves as a complete repository of all hands-on laboratory notebooks (Labs 0 through 4c), dual-stack implementations in **Python (Qiskit 2.x)** and **C++**, multilingual translations (English, Japanese, and Korean), 54 PDF research papers & textbooks, 92 curated external web tools, and 93 community-contributed memes and media.
 
 ---
 
@@ -47,9 +47,9 @@ This repository serves as a complete repository of all hands-on laboratory noteb
 │       ├── QGSS2026_Lab4c.ipynb        # Lab 4c: Part C (EN, JA, KO)
 │       └── utils/                      # Helper scripts & pre-trained parameter matrices
 ├── share-a-resource/                   # Community Shared Literature & Web Catalog
-│   ├── 49 PDF Papers & Books           # Research papers (Surface codes, QML, Tensor Networks)
-│   ├── share-a-resource-links.txt      # 100+ Curated external web links & interactive tools
-│   └── README.md                       # Full 135+ item resource index
+│   ├── 54 PDF Papers & Books           # Research papers (Surface codes, QML, Tensor Networks, Koopman)
+│   ├── share-a-resource-links.txt      # 92 Curated external web links & interactive tools
+│   └── README.md                       # Full 146+ item resource index
 ├── QGSS26-memes/                       # 93 Community Memes, WebP Graphics & Videos
 ├── LICENSE                             # MIT License
 └── README.md                           # Master Catalog & Repository Guide
@@ -76,10 +76,24 @@ All lab notebooks are provided in English (`.ipynb`), along with community trans
 
 ## Community Share-a-Resource Collection
 
-The repository features an extensive archive of **135+ community-curated learning materials** located in [`share-a-resource/`](./share-a-resource/README.md).
+The repository features an extensive archive of **146+ community-curated learning materials** located in [`share-a-resource/`](./share-a-resource/README.md).
 
-### 1. Research Papers & Textbooks (49 PDF Documents)
+### 1. Research Papers & Textbooks (54 PDF Documents)
 - **Fault-Tolerant QC & Surface Codes**: *A Game of Surface Codes* (Litinski), *Surface Code Quantum Computing by Lattice Surgery*, *Quantum Error Correction for Beginners* (Devitt et al.).
+- **Quantum Algorithms & Scientific Computation**: *Lecture Notes on Quantum Algorithms* (2507.11565v1), *Quantum Algorithms for Scientific Computation*, *Quantum Viterbi Algorithm*, *Quantum Koopman Algorithms*.
+- **Noise Tailoring & Error Mitigation**: *Noise Tailoring for Error Mitigation & Diagnosing Digital Quantum Computers* (2601.04830v2), *Joschka Roffe's QEC Guide*.
+- **Quantum Machine Learning**: *Introduction to QML for Non-Practitioners*, *Implicit Differentiation of Tensor Networks*, *QML Tutorial for ML Practitioners*.
+- **Quantum Advantage & Hardware**: *Mind the Gaps: The Fraught Road to Quantum Advantage*, *How to Build a Quantum Supercomputer*, *Crossing the 12,000-Atom Barrier*.
+- **Foundational Textbooks & Notes**: *Ronald de Wolf's QC Lecture Notes*, *Fred Loceff Vol 1*, *Scott Aaronson Lecture Note Collection*.
+
+### 2. External Web Resources & Tools (92 Links)
+- **Roadmaps & Conceptual Guides**: QC Roadmaps (`qcroadmap.com`), Quantum Computing for Very Curious (`quantum.country/qcvc`), Informaq (`informaq.spinsphere.xyz`), Tallinn Manual (`ccdcoe.org`).
+- **Interactive Circuit Simulators**: Quirk, Quantum-Circuit Studio, Quantum-Kit, Quantum Inspire.
+- **Video Courses & Tutorials**: Gilbert Strang's Linear Algebra (MIT), WIRED Quantum Computing 5 Levels, QWorld Lectures.
+- **Academic Journals & Series**: JHEP (`Journal of High Energy Physics`), Springer Graduate Texts in Physics, PRX Quantum, Nature NPJ QI, IEEE TQE.
+- **Tools & Infrastructure**: Post-Quantum Cryptography Benchmarks, Slurm-Qiskit HPC Clusters, IBM Quantum Learning Modules.
+
+For the full detailed catalog, refer to [`share-a-resource/README.md`](./share-a-resource/README.md).- **Fault-Tolerant QC & Surface Codes**: *A Game of Surface Codes* (Litinski), *Surface Code Quantum Computing by Lattice Surgery*, *Quantum Error Correction for Beginners* (Devitt et al.).
 - **Quantum Machine Learning**: *Introduction to QML for Non-Practitioners*, *Implicit Differentiation of Tensor Networks*, *QML Tutorial for ML Practitioners*.
 - **Quantum Advantage & Hardware**: *Mind the Gaps: The Fraught Road to Quantum Advantage*, *How to Build a Quantum Supercomputer*, *Crossing the 12,000-Atom Barrier*.
 - **Foundational Textbooks & Notes**: *Ronald de Wolf's QC Lecture Notes*, *Fred Loceff Vol 1*, *Scott Aaronson Lecture Note Collection*.
