@@ -182,3 +182,11 @@ https://link.springer.com/journal/13130 - journal of high energy physics
 https://link.springer.com/series/8431 - graduate texts in physics
 
 https://ccdcoe.org/research/tallinn-manual/ - tallinn manual
+
+https://cs.uwaterloo.ca/~watrous/QIT-notes/ - Quantum Information Theory 2020 John Watrous
+
+https://cs.uwaterloo.ca/~watrous/TQI-notes/ - Theory of Quantum Information 2020 John Watrous
+
+https://jhwatrous.github.io/books-and-courses.html - John Watrous resources
+
+https://davidtong.org/teaching/ - David Tong

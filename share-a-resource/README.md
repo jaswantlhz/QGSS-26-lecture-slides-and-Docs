@@ -17,13 +17,13 @@
 
 [![Qiskit](https://img.shields.io/badge/Qiskit-2.x-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
 [![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-052147?style=for-the-badge&logo=ibm&logoColor=white)](https://quantum-computing.ibm.com/)
-[![Resources](https://img.shields.io/badge/Shared_Resources-146_Items-brightgreen?style=for-the-badge)]()
+[![Resources](https://img.shields.io/badge/Shared_Resources-152_Items-brightgreen?style=for-the-badge)]()
 
 Welcome to the **Share-a-Resource Collection** archive. This directory houses a curated repository of community-contributed research papers, lecture notes, textbooks, tutorials, open-source quantum tools, and external web resources covering **Quantum Machine Learning (QML)**, **Surface Codes & Quantum Error Correction (QEC)**, **Tensor Networks**, **Quantum Optimization**, **NISQ/PISQ Analysis**, and **Quantum Hardware/HPC Integration**.
 
 ---
 
-## Shared PDF Literature & Research Catalog (54 Documents)
+## Shared PDF Literature & Research Catalog (56 Documents)
 
 | # | Document / Paper Title | Author / Citation ID | PDF Link | Category |
 |---|---|---|---|---|
@@ -81,10 +81,12 @@ Welcome to the **Share-a-Resource Collection** archive. This directory houses a 
 | **52** | **Scott Aaronson Collection of Quantum Computing Lecture Notes** | Scott Aaronson (UT Austin/MIT) | [PDF Document](./scott-aaronson-collection-of-lecturenotes.pdf) | Aaronson Lecture Notes |
 | **53** | **Surface Codes: Towards Practical Large-Scale Quantum Computation** | Austin G. Fowler et al. (arXiv:1208.0928v2) | [PDF Document](./surface-code-1208.0928v2.pdf) | Surface Codes Landmark |
 | **54** | **Tensor Network Theory Overview** | arXiv:1610.02244v1 | [PDF Document](./tensor-network-theory-1610.02244v1.pdf) | Tensor Network Theory |
+| **55** | **Advanced Quantum Theory Lecture Notes** | Lecture Notes | [PDF Document](./Advanced%20Quantum%20Theory-aqm_lecture_notes.pdf) | Advanced Quantum Theory |
+| **56** | **QIC 710 Quantum Information Theory (2024 V3)** | John Watrous / Course Notes | [PDF Document](./Qic710QuantumInformationTheory2024V3.pdf) | Quantum Information Theory |
 
 ---
 
-## External Web Resources, Courses & Links Catalog (92 Links)
+## External Web Resources, Courses & Links Catalog (96 Links)
 
 Below is the complete structured index of community-shared web links from [`share-a-resource-links.txt`](./share-a-resource-links.txt):
 
@@ -182,6 +184,10 @@ Below is the complete structured index of community-shared web links from [`shar
 | **90** | **Journal of High Energy Physics (JHEP)** | [link.springer.com/journal/13130](https://link.springer.com/journal/13130) | Springer Academic Journal |
 | **91** | **Graduate Texts in Physics (Springer)** | [link.springer.com/series/8431](https://link.springer.com/series/8431) | Academic Book Series |
 | **92** | **Tallinn Manual (CCDCOE Cyber & Tech Law Research)** | [ccdcoe.org/research/tallinn-manual](https://ccdcoe.org/research/tallinn-manual/) | Cyber & Tech Law Research |
+| **93** | **Quantum Information Theory 2020 (John Watrous)** | [cs.uwaterloo.ca/~watrous/QIT-notes](https://cs.uwaterloo.ca/~watrous/QIT-notes/) | Waterloo Course Notes |
+| **94** | **Theory of Quantum Information 2020 (John Watrous)** | [cs.uwaterloo.ca/~watrous/TQI-notes](https://cs.uwaterloo.ca/~watrous/TQI-notes/) | Waterloo Course Notes |
+| **95** | **John Watrous Books & Courses Collection** | [jhwatrous.github.io/books-and-courses.html](https://jhwatrous.github.io/books-and-courses.html) | Academic Course Portal |
+| **96** | **David Tong: Lectures on Theoretical Physics (Cambridge)** | [davidtong.org/teaching](https://davidtong.org/teaching/) | Cambridge Lecture Notes |
 
 ---
 
